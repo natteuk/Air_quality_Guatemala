@@ -1,4 +1,4 @@
-# Air_quality_Guatemala
+# Air_quality_Methane_Guatemala
 This project was made with the purpose of creating different scripts in Google Earth Engine for air quality in Guatemala. These scripts can be changed to fulfill the purpose of the research, this means that you can chance either the imagery date, bands or other parameters. 
 
 
